@@ -1,1 +1,15 @@
-
+{
+  "attributes": [
+    {
+      "trait_type": "Hair color ",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Eye color",
+      "value": "Mocha"
+    }
+  ],
+  "description": "I am comp3320 fintech student",
+  "image": "https://ipfs.io/ipfs/QmPR3LPw5SLsNxzet3cNS6XDxkbYbtxCWRyH5x7cub748b",
+  "name": "JessieCHANkwanyi "
+}
